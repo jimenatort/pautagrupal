@@ -1,0 +1,35 @@
+Aspecto de la página:
+
+Fondo sencillo.
+Titulo: Métodología de Kanban
+Subtítulo: Descripción breve y sencilla de la metodología
+
+Panel de navegación con sub-temas: 
+
+-Principios
+-Ventajas y desventajas
+-Ejemplo
+
+Tareas a realizar:
+
++HTML.
+
+0-Vincular el archivo CSS
+
+1-Crear "panel de navegación" con los links a cada uno de los puntos.
+
+2-Crear subtitulos y descripciones de cada sub-tema
+2.1- Principios
+2.2- Ventajas y desventajas
+2.3- Ejemplo (imagenes y descripción de las mismas, o solo imagenes) 
+
++CSS. (KAREN y...)
+
+1-Fondo sencillo
+2-Darle formato a los titulos
+3-Darle formato a los parrafos
+4-Agregar imagenes y ubicarlas en la página
+
+
+
+
